@@ -1,0 +1,6 @@
+# An editor to work with credentials
+vim
+libyaml-dev
+pkg-config
+git
+curl
